@@ -1,0 +1,8 @@
+1. crear carpeta: mkdir preventivoApi && cd preventivoApi
+2. crear entorno: conda create -n preventivo python=3.6
+3. ver entornos: conda info --envs
+4. Ir a preventivo: conda activate preventivo
+5. ir a directorio
+6. pip install  -r requirements.txt
+
+

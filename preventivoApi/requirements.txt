@@ -1,0 +1,9 @@
+argparse
+pandas
+numpy
+math
+datetime
+mysql.connector==2.1.6
+sqlalchemy==1.2.7
+flask
+flask_restful
